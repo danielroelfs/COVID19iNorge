@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Open+Sans&display=swap');
+
+/* header */
+.main-header .logo {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+}
+
+/* body */
+
+.body p {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+#trans {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+#per_inh {
+  font-family: "Open Sans", sans-serif;
+  color: white !important;
+}
+h5 {
+  font-family: "Open Sans", sans-serif;
+  color: white !important;
+}
+
+.content-wrapper {
+  background-color: #303030;
+}
+
+table, th, td {
+  color: white;
+}
